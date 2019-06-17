@@ -1,6 +1,8 @@
 # Bias_Var_Machine_Learning
 This project is to introduce the bias and variance in machine learning and approaches to deal with them. Some sample codes are provided for demonstration purpose.
 
+
+
 ## Dataset
 The dataset used in this project is Fashion MNIST [[Xiao et al., 2017](https://arxiv.org/abs/1708.07747)]. It will be used for classifying fashion apparel images into one of ten categories:
 
